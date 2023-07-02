@@ -37,5 +37,4 @@ models:
       +materialized: table
     # materialize all models in models/src as views
     src:
-      +materialized: view     
-  
+      +materialized: view
